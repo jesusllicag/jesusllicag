@@ -33,8 +33,14 @@
 ![Angular](https://img.shields.io/badge/-Angular-f637e3?style=flat-square&logo=angular&logoColor=fffff)
 ![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![Koa](https://img.shields.io/badge/-Koa-c2c2c2?style=flat-square&logo=koa)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-ffffff?style=flat-square&logo=postgresql)
 ![Mysql](https://img.shields.io/badge/-Mysql-454545?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-c2c2c2?style=flat-square&logo=mongodb)
+
+![Docker](https://img.shields.io/badge/-Docker-c2c2c2?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-c2c2c2?style=flat-square&logo=kubernetes)
+
+![AWS](https://img.shields.io/badge/AWS-Certified_Developer_Associate-blue?logo=amazonaws)
 
 [website]: https://mizterfrek.com/
